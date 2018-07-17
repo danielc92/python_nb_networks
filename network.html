@@ -7,11 +7,13 @@
     <script src="https://d3js.org/d3.v3.min.js"></script>
 
     <!-- CSS Style //-->
-    <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,900|Source+Code+Pro:300" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,900|Source+Code+Pro:300" rel="stylesheet" type="text/css">
     <style>
+
     body {
+        text-align: center;
         font-family: 'Source Sans Pro', sans-serif;
-        font-weight: 300;
+        font-weight: 100;
     }
 
     b {
@@ -53,8 +55,8 @@
     </style>
 
     <script>
-    var width  = 1280;
-    var height = 720;
+    var width  = 1400;
+    var height = 1050;
     var margin = 20;
     var pad = margin / 2;
     var color = d3.scale.category20();
@@ -199,7 +201,8 @@
 </head>
 
 <body>
-    <h1>Network Graph</h1>
+    <h2>Network Graph using D3.js</h2>
+    <p>Visualizing directory: "/users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/</p>
     <div align="center" id="force">
     </div>
     <script>
