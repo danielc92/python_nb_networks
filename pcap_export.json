@@ -1,0 +1,1810 @@
+{
+ "links": [
+  {
+   "source": 200,
+   "target": 0,
+   "value": 1
+  },
+  {
+   "source": 200,
+   "target": 1,
+   "value": 1
+  },
+  {
+   "source": 200,
+   "target": 2,
+   "value": 1
+  },
+  {
+   "source": 200,
+   "target": 3,
+   "value": 1
+  },
+  {
+   "source": 200,
+   "target": 4,
+   "value": 1
+  },
+  {
+   "source": 200,
+   "target": 5,
+   "value": 1
+  },
+  {
+   "source": 200,
+   "target": 6,
+   "value": 1
+  },
+  {
+   "source": 200,
+   "target": 7,
+   "value": 1
+  },
+  {
+   "source": 200,
+   "target": 8,
+   "value": 1
+  },
+  {
+   "source": 200,
+   "target": 9,
+   "value": 1
+  },
+  {
+   "source": 200,
+   "target": 10,
+   "value": 1
+  },
+  {
+   "source": 200,
+   "target": 11,
+   "value": 1
+  },
+  {
+   "source": 200,
+   "target": 12,
+   "value": 1
+  },
+  {
+   "source": 0,
+   "target": 13,
+   "value": 1
+  },
+  {
+   "source": 0,
+   "target": 14,
+   "value": 1
+  },
+  {
+   "source": 1,
+   "target": 15,
+   "value": 1
+  },
+  {
+   "source": 1,
+   "target": 16,
+   "value": 1
+  },
+  {
+   "source": 2,
+   "target": 17,
+   "value": 1
+  },
+  {
+   "source": 2,
+   "target": 18,
+   "value": 1
+  },
+  {
+   "source": 2,
+   "target": 19,
+   "value": 1
+  },
+  {
+   "source": 2,
+   "target": 20,
+   "value": 1
+  },
+  {
+   "source": 2,
+   "target": 21,
+   "value": 1
+  },
+  {
+   "source": 2,
+   "target": 22,
+   "value": 1
+  },
+  {
+   "source": 2,
+   "target": 23,
+   "value": 1
+  },
+  {
+   "source": 2,
+   "target": 24,
+   "value": 1
+  },
+  {
+   "source": 2,
+   "target": 25,
+   "value": 1
+  },
+  {
+   "source": 2,
+   "target": 26,
+   "value": 1
+  },
+  {
+   "source": 2,
+   "target": 27,
+   "value": 1
+  },
+  {
+   "source": 17,
+   "target": 28,
+   "value": 1
+  },
+  {
+   "source": 17,
+   "target": 29,
+   "value": 1
+  },
+  {
+   "source": 17,
+   "target": 30,
+   "value": 1
+  },
+  {
+   "source": 17,
+   "target": 31,
+   "value": 1
+  },
+  {
+   "source": 17,
+   "target": 32,
+   "value": 1
+  },
+  {
+   "source": 17,
+   "target": 33,
+   "value": 1
+  },
+  {
+   "source": 17,
+   "target": 34,
+   "value": 1
+  },
+  {
+   "source": 17,
+   "target": 35,
+   "value": 1
+  },
+  {
+   "source": 17,
+   "target": 36,
+   "value": 1
+  },
+  {
+   "source": 17,
+   "target": 37,
+   "value": 1
+  },
+  {
+   "source": 17,
+   "target": 38,
+   "value": 1
+  },
+  {
+   "source": 17,
+   "target": 39,
+   "value": 1
+  },
+  {
+   "source": 17,
+   "target": 40,
+   "value": 1
+  },
+  {
+   "source": 17,
+   "target": 41,
+   "value": 1
+  },
+  {
+   "source": 17,
+   "target": 42,
+   "value": 1
+  },
+  {
+   "source": 17,
+   "target": 43,
+   "value": 1
+  },
+  {
+   "source": 17,
+   "target": 44,
+   "value": 1
+  },
+  {
+   "source": 17,
+   "target": 45,
+   "value": 1
+  },
+  {
+   "source": 17,
+   "target": 46,
+   "value": 1
+  },
+  {
+   "source": 17,
+   "target": 47,
+   "value": 1
+  },
+  {
+   "source": 17,
+   "target": 48,
+   "value": 1
+  },
+  {
+   "source": 17,
+   "target": 49,
+   "value": 1
+  },
+  {
+   "source": 17,
+   "target": 50,
+   "value": 1
+  },
+  {
+   "source": 17,
+   "target": 51,
+   "value": 1
+  },
+  {
+   "source": 17,
+   "target": 52,
+   "value": 1
+  },
+  {
+   "source": 17,
+   "target": 53,
+   "value": 1
+  },
+  {
+   "source": 17,
+   "target": 54,
+   "value": 1
+  },
+  {
+   "source": 17,
+   "target": 55,
+   "value": 1
+  },
+  {
+   "source": 17,
+   "target": 56,
+   "value": 1
+  },
+  {
+   "source": 17,
+   "target": 57,
+   "value": 1
+  },
+  {
+   "source": 17,
+   "target": 58,
+   "value": 1
+  },
+  {
+   "source": 17,
+   "target": 59,
+   "value": 1
+  },
+  {
+   "source": 17,
+   "target": 60,
+   "value": 1
+  },
+  {
+   "source": 17,
+   "target": 61,
+   "value": 1
+  },
+  {
+   "source": 17,
+   "target": 62,
+   "value": 1
+  },
+  {
+   "source": 17,
+   "target": 63,
+   "value": 1
+  },
+  {
+   "source": 17,
+   "target": 64,
+   "value": 1
+  },
+  {
+   "source": 17,
+   "target": 65,
+   "value": 1
+  },
+  {
+   "source": 17,
+   "target": 66,
+   "value": 1
+  },
+  {
+   "source": 17,
+   "target": 67,
+   "value": 1
+  },
+  {
+   "source": 17,
+   "target": 68,
+   "value": 1
+  },
+  {
+   "source": 17,
+   "target": 69,
+   "value": 1
+  },
+  {
+   "source": 17,
+   "target": 70,
+   "value": 1
+  },
+  {
+   "source": 17,
+   "target": 71,
+   "value": 1
+  },
+  {
+   "source": 17,
+   "target": 72,
+   "value": 1
+  },
+  {
+   "source": 17,
+   "target": 73,
+   "value": 1
+  },
+  {
+   "source": 17,
+   "target": 74,
+   "value": 1
+  },
+  {
+   "source": 17,
+   "target": 75,
+   "value": 1
+  },
+  {
+   "source": 17,
+   "target": 76,
+   "value": 1
+  },
+  {
+   "source": 17,
+   "target": 77,
+   "value": 1
+  },
+  {
+   "source": 17,
+   "target": 78,
+   "value": 1
+  },
+  {
+   "source": 17,
+   "target": 79,
+   "value": 1
+  },
+  {
+   "source": 17,
+   "target": 80,
+   "value": 1
+  },
+  {
+   "source": 17,
+   "target": 81,
+   "value": 1
+  },
+  {
+   "source": 17,
+   "target": 82,
+   "value": 1
+  },
+  {
+   "source": 17,
+   "target": 83,
+   "value": 1
+  },
+  {
+   "source": 17,
+   "target": 84,
+   "value": 1
+  },
+  {
+   "source": 17,
+   "target": 85,
+   "value": 1
+  },
+  {
+   "source": 28,
+   "target": 86,
+   "value": 1
+  },
+  {
+   "source": 29,
+   "target": 87,
+   "value": 1
+  },
+  {
+   "source": 29,
+   "target": 88,
+   "value": 1
+  },
+  {
+   "source": 30,
+   "target": 89,
+   "value": 1
+  },
+  {
+   "source": 31,
+   "target": 90,
+   "value": 1
+  },
+  {
+   "source": 32,
+   "target": 91,
+   "value": 1
+  },
+  {
+   "source": 32,
+   "target": 92,
+   "value": 1
+  },
+  {
+   "source": 33,
+   "target": 93,
+   "value": 1
+  },
+  {
+   "source": 33,
+   "target": 94,
+   "value": 1
+  },
+  {
+   "source": 34,
+   "target": 95,
+   "value": 1
+  },
+  {
+   "source": 35,
+   "target": 96,
+   "value": 1
+  },
+  {
+   "source": 36,
+   "target": 97,
+   "value": 1
+  },
+  {
+   "source": 36,
+   "target": 98,
+   "value": 1
+  },
+  {
+   "source": 37,
+   "target": 99,
+   "value": 1
+  },
+  {
+   "source": 38,
+   "target": 100,
+   "value": 1
+  },
+  {
+   "source": 39,
+   "target": 101,
+   "value": 1
+  },
+  {
+   "source": 40,
+   "target": 102,
+   "value": 1
+  },
+  {
+   "source": 41,
+   "target": 103,
+   "value": 1
+  },
+  {
+   "source": 42,
+   "target": 104,
+   "value": 1
+  },
+  {
+   "source": 43,
+   "target": 105,
+   "value": 1
+  },
+  {
+   "source": 44,
+   "target": 106,
+   "value": 1
+  },
+  {
+   "source": 45,
+   "target": 107,
+   "value": 1
+  },
+  {
+   "source": 46,
+   "target": 108,
+   "value": 1
+  },
+  {
+   "source": 46,
+   "target": 109,
+   "value": 1
+  },
+  {
+   "source": 47,
+   "target": 110,
+   "value": 1
+  },
+  {
+   "source": 48,
+   "target": 111,
+   "value": 1
+  },
+  {
+   "source": 49,
+   "target": 112,
+   "value": 1
+  },
+  {
+   "source": 51,
+   "target": 113,
+   "value": 1
+  },
+  {
+   "source": 52,
+   "target": 114,
+   "value": 1
+  },
+  {
+   "source": 53,
+   "target": 115,
+   "value": 1
+  },
+  {
+   "source": 54,
+   "target": 116,
+   "value": 1
+  },
+  {
+   "source": 55,
+   "target": 117,
+   "value": 1
+  },
+  {
+   "source": 56,
+   "target": 118,
+   "value": 1
+  },
+  {
+   "source": 57,
+   "target": 119,
+   "value": 1
+  },
+  {
+   "source": 58,
+   "target": 120,
+   "value": 1
+  },
+  {
+   "source": 59,
+   "target": 121,
+   "value": 1
+  },
+  {
+   "source": 60,
+   "target": 122,
+   "value": 1
+  },
+  {
+   "source": 62,
+   "target": 123,
+   "value": 1
+  },
+  {
+   "source": 62,
+   "target": 124,
+   "value": 1
+  },
+  {
+   "source": 63,
+   "target": 125,
+   "value": 1
+  },
+  {
+   "source": 64,
+   "target": 126,
+   "value": 1
+  },
+  {
+   "source": 65,
+   "target": 127,
+   "value": 1
+  },
+  {
+   "source": 66,
+   "target": 128,
+   "value": 1
+  },
+  {
+   "source": 67,
+   "target": 129,
+   "value": 1
+  },
+  {
+   "source": 67,
+   "target": 130,
+   "value": 1
+  },
+  {
+   "source": 68,
+   "target": 131,
+   "value": 1
+  },
+  {
+   "source": 69,
+   "target": 132,
+   "value": 1
+  },
+  {
+   "source": 70,
+   "target": 133,
+   "value": 1
+  },
+  {
+   "source": 71,
+   "target": 134,
+   "value": 1
+  },
+  {
+   "source": 72,
+   "target": 135,
+   "value": 1
+  },
+  {
+   "source": 73,
+   "target": 136,
+   "value": 1
+  },
+  {
+   "source": 74,
+   "target": 137,
+   "value": 1
+  },
+  {
+   "source": 75,
+   "target": 138,
+   "value": 1
+  },
+  {
+   "source": 76,
+   "target": 139,
+   "value": 1
+  },
+  {
+   "source": 77,
+   "target": 140,
+   "value": 1
+  },
+  {
+   "source": 78,
+   "target": 141,
+   "value": 1
+  },
+  {
+   "source": 78,
+   "target": 142,
+   "value": 1
+  },
+  {
+   "source": 79,
+   "target": 143,
+   "value": 1
+  },
+  {
+   "source": 79,
+   "target": 144,
+   "value": 1
+  },
+  {
+   "source": 80,
+   "target": 145,
+   "value": 1
+  },
+  {
+   "source": 81,
+   "target": 146,
+   "value": 1
+  },
+  {
+   "source": 81,
+   "target": 147,
+   "value": 1
+  },
+  {
+   "source": 82,
+   "target": 148,
+   "value": 1
+  },
+  {
+   "source": 83,
+   "target": 149,
+   "value": 1
+  },
+  {
+   "source": 84,
+   "target": 150,
+   "value": 1
+  },
+  {
+   "source": 85,
+   "target": 151,
+   "value": 1
+  },
+  {
+   "source": 18,
+   "target": 152,
+   "value": 1
+  },
+  {
+   "source": 19,
+   "target": 153,
+   "value": 1
+  },
+  {
+   "source": 19,
+   "target": 154,
+   "value": 1
+  },
+  {
+   "source": 153,
+   "target": 155,
+   "value": 1
+  },
+  {
+   "source": 153,
+   "target": 156,
+   "value": 1
+  },
+  {
+   "source": 155,
+   "target": 157,
+   "value": 1
+  },
+  {
+   "source": 156,
+   "target": 158,
+   "value": 1
+  },
+  {
+   "source": 158,
+   "target": 159,
+   "value": 1
+  },
+  {
+   "source": 158,
+   "target": 160,
+   "value": 1
+  },
+  {
+   "source": 20,
+   "target": 161,
+   "value": 1
+  },
+  {
+   "source": 20,
+   "target": 162,
+   "value": 1
+  },
+  {
+   "source": 20,
+   "target": 163,
+   "value": 1
+  },
+  {
+   "source": 20,
+   "target": 164,
+   "value": 1
+  },
+  {
+   "source": 20,
+   "target": 165,
+   "value": 1
+  },
+  {
+   "source": 20,
+   "target": 166,
+   "value": 1
+  },
+  {
+   "source": 20,
+   "target": 167,
+   "value": 1
+  },
+  {
+   "source": 20,
+   "target": 168,
+   "value": 1
+  },
+  {
+   "source": 20,
+   "target": 169,
+   "value": 1
+  },
+  {
+   "source": 20,
+   "target": 170,
+   "value": 1
+  },
+  {
+   "source": 21,
+   "target": 171,
+   "value": 1
+  },
+  {
+   "source": 21,
+   "target": 172,
+   "value": 1
+  },
+  {
+   "source": 21,
+   "target": 173,
+   "value": 1
+  },
+  {
+   "source": 171,
+   "target": 174,
+   "value": 1
+  },
+  {
+   "source": 173,
+   "target": 175,
+   "value": 1
+  },
+  {
+   "source": 175,
+   "target": 176,
+   "value": 1
+  },
+  {
+   "source": 175,
+   "target": 177,
+   "value": 1
+  },
+  {
+   "source": 3,
+   "target": 178,
+   "value": 1
+  },
+  {
+   "source": 3,
+   "target": 179,
+   "value": 1
+  },
+  {
+   "source": 3,
+   "target": 180,
+   "value": 1
+  },
+  {
+   "source": 178,
+   "target": 181,
+   "value": 1
+  },
+  {
+   "source": 178,
+   "target": 182,
+   "value": 1
+  },
+  {
+   "source": 178,
+   "target": 183,
+   "value": 1
+  },
+  {
+   "source": 178,
+   "target": 184,
+   "value": 1
+  },
+  {
+   "source": 178,
+   "target": 185,
+   "value": 1
+  },
+  {
+   "source": 178,
+   "target": 186,
+   "value": 1
+  },
+  {
+   "source": 178,
+   "target": 187,
+   "value": 1
+  },
+  {
+   "source": 178,
+   "target": 188,
+   "value": 1
+  },
+  {
+   "source": 178,
+   "target": 189,
+   "value": 1
+  },
+  {
+   "source": 178,
+   "target": 190,
+   "value": 1
+  },
+  {
+   "source": 178,
+   "target": 191,
+   "value": 1
+  },
+  {
+   "source": 178,
+   "target": 192,
+   "value": 1
+  },
+  {
+   "source": 178,
+   "target": 193,
+   "value": 1
+  },
+  {
+   "source": 178,
+   "target": 194,
+   "value": 1
+  },
+  {
+   "source": 179,
+   "target": 195,
+   "value": 1
+  },
+  {
+   "source": 179,
+   "target": 196,
+   "value": 1
+  },
+  {
+   "source": 179,
+   "target": 197,
+   "value": 1
+  },
+  {
+   "source": 179,
+   "target": 198,
+   "value": 1
+  },
+  {
+   "source": 179,
+   "target": 199,
+   "value": 1
+  }
+ ],
+ "nodes": [
+  {
+   "group": 0,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/drivers"
+  },
+  {
+   "group": 1,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.ipynb_checkpoints"
+  },
+  {
+   "group": 2,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git"
+  },
+  {
+   "group": 0,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/data"
+  },
+  {
+   "group": 3,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/notebook_calculate_closest_street_pool.ipynb"
+  },
+  {
+   "group": 4,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.DS_Store"
+  },
+  {
+   "group": 3,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/notebook_reverse_geocode.ipynb"
+  },
+  {
+   "group": 5,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/README.md"
+  },
+  {
+   "group": 3,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/notebook_calculate_closest_street.ipynb"
+  },
+  {
+   "group": 6,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/geckodriver.log"
+  },
+  {
+   "group": 7,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.gitignore"
+  },
+  {
+   "group": 3,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/notebook_spatial_joins.ipynb"
+  },
+  {
+   "group": 3,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/gnaf_tests.ipynb"
+  },
+  {
+   "group": 0,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/drivers/geckodriver"
+  },
+  {
+   "group": 0,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/drivers/chromedriver"
+  },
+  {
+   "group": 3,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.ipynb_checkpoints/notebook_reverse_geocode-checkpoint.ipynb"
+  },
+  {
+   "group": 3,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.ipynb_checkpoints/notebook_spatial_joins-checkpoint.ipynb"
+  },
+  {
+   "group": 0,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects"
+  },
+  {
+   "group": 0,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/info"
+  },
+  {
+   "group": 0,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/logs"
+  },
+  {
+   "group": 0,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/hooks"
+  },
+  {
+   "group": 0,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/refs"
+  },
+  {
+   "group": 0,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/config"
+  },
+  {
+   "group": 0,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/HEAD"
+  },
+  {
+   "group": 0,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/description"
+  },
+  {
+   "group": 0,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/index"
+  },
+  {
+   "group": 0,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/packed-refs"
+  },
+  {
+   "group": 0,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/COMMIT_EDITMSG"
+  },
+  {
+   "group": 0,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/3e"
+  },
+  {
+   "group": 0,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/50"
+  },
+  {
+   "group": 0,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/6f"
+  },
+  {
+   "group": 0,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/9b"
+  },
+  {
+   "group": 0,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/32"
+  },
+  {
+   "group": 0,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/51"
+  },
+  {
+   "group": 0,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/94"
+  },
+  {
+   "group": 0,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/02"
+  },
+  {
+   "group": 0,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/a4"
+  },
+  {
+   "group": 0,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/b2"
+  },
+  {
+   "group": 0,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/be"
+  },
+  {
+   "group": 0,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/b4"
+  },
+  {
+   "group": 0,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/a2"
+  },
+  {
+   "group": 0,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/e2"
+  },
+  {
+   "group": 0,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/ee"
+  },
+  {
+   "group": 0,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/f2"
+  },
+  {
+   "group": 0,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/f5"
+  },
+  {
+   "group": 0,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/e3"
+  },
+  {
+   "group": 0,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/e4"
+  },
+  {
+   "group": 0,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/fb"
+  },
+  {
+   "group": 0,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/c6"
+  },
+  {
+   "group": 0,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/4e"
+  },
+  {
+   "group": 0,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/pack"
+  },
+  {
+   "group": 0,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/73"
+  },
+  {
+   "group": 0,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/74"
+  },
+  {
+   "group": 0,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/1a"
+  },
+  {
+   "group": 0,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/7e"
+  },
+  {
+   "group": 0,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/4c"
+  },
+  {
+   "group": 0,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/81"
+  },
+  {
+   "group": 0,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/9a"
+  },
+  {
+   "group": 0,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/36"
+  },
+  {
+   "group": 0,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/09"
+  },
+  {
+   "group": 0,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/5d"
+  },
+  {
+   "group": 0,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/info"
+  },
+  {
+   "group": 0,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/65"
+  },
+  {
+   "group": 0,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/3a"
+  },
+  {
+   "group": 0,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/39"
+  },
+  {
+   "group": 0,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/55"
+  },
+  {
+   "group": 0,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/bf"
+  },
+  {
+   "group": 0,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/b6"
+  },
+  {
+   "group": 0,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/db"
+  },
+  {
+   "group": 0,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/ef"
+  },
+  {
+   "group": 0,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/c3"
+  },
+  {
+   "group": 0,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/ea"
+  },
+  {
+   "group": 0,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/c5"
+  },
+  {
+   "group": 0,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/c2"
+  },
+  {
+   "group": 0,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/f1"
+  },
+  {
+   "group": 0,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/46"
+  },
+  {
+   "group": 0,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/2c"
+  },
+  {
+   "group": 0,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/1b"
+  },
+  {
+   "group": 0,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/77"
+  },
+  {
+   "group": 0,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/4a"
+  },
+  {
+   "group": 0,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/15"
+  },
+  {
+   "group": 0,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/12"
+  },
+  {
+   "group": 0,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/85"
+  },
+  {
+   "group": 0,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/76"
+  },
+  {
+   "group": 0,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/40"
+  },
+  {
+   "group": 0,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/47"
+  },
+  {
+   "group": 0,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/3e/9473937de1fae919f4e33a38ab0f8f00386955"
+  },
+  {
+   "group": 0,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/50/6afe9750f99e6891bbc87b140c01245f6f21a5"
+  },
+  {
+   "group": 0,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/50/672c33e030a8271ac82d214520414a7b17b3a0"
+  },
+  {
+   "group": 0,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/6f/0e8931f3623c5040a34928bbfb3587c6cec861"
+  },
+  {
+   "group": 0,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/9b/9e3128f551f7542a92e24a53d3420220445acb"
+  },
+  {
+   "group": 0,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/32/e6b10d709089a9806d3a18aa8748f8573518e0"
+  },
+  {
+   "group": 0,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/32/bd9ab98a7ce5e698a6b655f2a2251ed8e5588e"
+  },
+  {
+   "group": 0,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/51/78b30458e28230942de07b701a5c4c063a71c2"
+  },
+  {
+   "group": 0,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/51/6d9acb51ad1b62dcab53f7329f8ff9a6501cb6"
+  },
+  {
+   "group": 0,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/94/0e2838c1b6296a74910d5cb33f7d882c99da06"
+  },
+  {
+   "group": 0,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/02/526446ee18dcffdf24d2f5066604cb41666c89"
+  },
+  {
+   "group": 0,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/a4/52c7864e643dc853abdcbaa2389815506c3149"
+  },
+  {
+   "group": 0,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/a4/cebc0bf3e2a808e00d11cbd34068ee7bc1c3ee"
+  },
+  {
+   "group": 0,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/b2/3ee0c7cac4d4db412a5fe642e36bea55f38441"
+  },
+  {
+   "group": 0,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/be/5bad7e3cb2c40060678a210003b5f38982557c"
+  },
+  {
+   "group": 0,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/b4/2703b5f595d79aeba6cdd881981eeee0a10808"
+  },
+  {
+   "group": 0,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/a2/ac9ba68e908f8f10739707a9cb7ebbf82ff958"
+  },
+  {
+   "group": 0,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/e2/7444585371bfd8b68ff45a4631c4c136012507"
+  },
+  {
+   "group": 0,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/ee/c20fa04a9fcabad8adc7716623e2e87e4be6b1"
+  },
+  {
+   "group": 0,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/f2/d2bf1834b7a394231daf62b90fe5f61889e50b"
+  },
+  {
+   "group": 0,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/f5/1838ed0a32b2e3cfac82341ab28f9b75f254d9"
+  },
+  {
+   "group": 0,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/e3/7a553be744fb7841d637331e1afd3f75d4267e"
+  },
+  {
+   "group": 0,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/e4/278cb2eff324178c72c2ce602ac0f8259be258"
+  },
+  {
+   "group": 0,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/e4/f5556e07872d44852fb064a6e95bafa8720033"
+  },
+  {
+   "group": 0,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/fb/87e4c8648575a1eb2bdcd5f4cb4ae63d462446"
+  },
+  {
+   "group": 0,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/c6/65fc0ce8eb891667fd070546fda864184bb149"
+  },
+  {
+   "group": 0,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/4e/c6e2d82ae0c87e9191f82fff7c4f7ac98552f7"
+  },
+  {
+   "group": 0,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/73/efc5c9749b67051b282bee3d370883bb3c3447"
+  },
+  {
+   "group": 0,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/74/cd069249330749b080b7dd1d82ad4c7387bfa9"
+  },
+  {
+   "group": 0,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/1a/7bc41f351735101ca5f06fa388080496a136a8"
+  },
+  {
+   "group": 0,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/7e/d1a6e21f6afbebc4ea3efcd84a3e5029383bf0"
+  },
+  {
+   "group": 0,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/4c/c16955648b54467fc697d87c127a31e43ba5b3"
+  },
+  {
+   "group": 0,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/81/5073a3f4cf6434e232624fce8d28883502dd59"
+  },
+  {
+   "group": 0,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/9a/7fe34acb17b8a32cdacdd4e7eb8b73b627b27a"
+  },
+  {
+   "group": 0,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/36/b87e96502db8d4e230c635bdb6f61e5be821eb"
+  },
+  {
+   "group": 0,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/09/9a6af50dcaef556ac456acd98a8e691fd73fbf"
+  },
+  {
+   "group": 0,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/5d/ee8de805bccbccb3549ae5b78e7695af540bc3"
+  },
+  {
+   "group": 0,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/65/4d9a848e7c144d998aaf9ffbdbf582fbf584d7"
+  },
+  {
+   "group": 0,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/65/b350517f1586140d806fd97d32e912c1b054cd"
+  },
+  {
+   "group": 0,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/3a/2e5c79c6859dcb25aa374b2abd7ec3e2015b6e"
+  },
+  {
+   "group": 0,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/39/7e0dd20d8962a1fd9d6e47aa6250b4d8dba006"
+  },
+  {
+   "group": 0,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/55/794e5d625a6663b288b2e91cfc30126875e90e"
+  },
+  {
+   "group": 0,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/bf/6c9cc31f31f8049f122d1f2113172bf9056e4a"
+  },
+  {
+   "group": 0,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/b6/c4eea10c2edf408ddbfbaefee28a4fa3828400"
+  },
+  {
+   "group": 0,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/b6/e98d4306dd78713683bf9ee8cccae7e2b7c84e"
+  },
+  {
+   "group": 0,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/db/32b15dab02ab286fc561f2f2ab26d8954ff7a5"
+  },
+  {
+   "group": 0,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/ef/2fea53bdb26f426c7dc5cfd22dca81ef59f920"
+  },
+  {
+   "group": 0,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/c3/18020c18d5ffcab317dcac077f757b51193e43"
+  },
+  {
+   "group": 0,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/ea/f1d0c11df691bf248c504057a079c244572bf7"
+  },
+  {
+   "group": 0,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/c5/1a06f5f2977a8172ed7d6172ce98c9b07789aa"
+  },
+  {
+   "group": 0,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/c2/b8fb89b689e8980c6d25803d105450504afc33"
+  },
+  {
+   "group": 0,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/f1/c9010662522f5b4f2510a46d0a999929ba691d"
+  },
+  {
+   "group": 0,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/46/17acafe20f08dc4f60f4557083fd88f79a5fe9"
+  },
+  {
+   "group": 0,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/2c/6cae46582a74c1287f19eeb31738c41433c629"
+  },
+  {
+   "group": 0,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/1b/dd3f5b07656c0e480216d70fabd13d93a76aef"
+  },
+  {
+   "group": 0,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/77/3f1e10e7e4a5567011d352af9d8d434dbf5cd4"
+  },
+  {
+   "group": 0,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/77/3ce763d0516ce13f3058a4275a2cc6ed21bf2d"
+  },
+  {
+   "group": 0,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/4a/1119946c059ee8512f05e7a46cfae92257965a"
+  },
+  {
+   "group": 0,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/4a/cc6d0f9087e7634e161c9cba4fc9615db07443"
+  },
+  {
+   "group": 0,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/15/0593812371418d1188f36bfd1a02b7b117d223"
+  },
+  {
+   "group": 0,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/12/e375c166e051b305fdc1a64762e12c1764ffda"
+  },
+  {
+   "group": 0,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/12/1b1d684bfe6eee15c818027151afe5bffc9866"
+  },
+  {
+   "group": 0,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/85/a170c666c82b812f6645e03742da57ea202dad"
+  },
+  {
+   "group": 0,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/76/5b710afa78fcca724d021e27f3d6e0419750f2"
+  },
+  {
+   "group": 0,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/40/674454aac10e9d243490add13eb84ba63bf7cf"
+  },
+  {
+   "group": 0,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/47/a9a63ed9ad4f7eb503cb8baccba42b4c3ffab2"
+  },
+  {
+   "group": 0,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/info/exclude"
+  },
+  {
+   "group": 0,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/logs/refs"
+  },
+  {
+   "group": 0,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/logs/HEAD"
+  },
+  {
+   "group": 0,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/logs/refs/heads"
+  },
+  {
+   "group": 0,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/logs/refs/remotes"
+  },
+  {
+   "group": 0,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/logs/refs/heads/master"
+  },
+  {
+   "group": 0,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/logs/refs/remotes/origin"
+  },
+  {
+   "group": 0,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/logs/refs/remotes/origin/HEAD"
+  },
+  {
+   "group": 0,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/logs/refs/remotes/origin/master"
+  },
+  {
+   "group": 8,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/hooks/commit-msg.sample"
+  },
+  {
+   "group": 8,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/hooks/pre-rebase.sample"
+  },
+  {
+   "group": 8,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/hooks/pre-commit.sample"
+  },
+  {
+   "group": 8,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/hooks/applypatch-msg.sample"
+  },
+  {
+   "group": 8,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/hooks/pre-receive.sample"
+  },
+  {
+   "group": 8,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/hooks/prepare-commit-msg.sample"
+  },
+  {
+   "group": 8,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/hooks/post-update.sample"
+  },
+  {
+   "group": 8,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/hooks/pre-applypatch.sample"
+  },
+  {
+   "group": 8,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/hooks/pre-push.sample"
+  },
+  {
+   "group": 8,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/hooks/update.sample"
+  },
+  {
+   "group": 0,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/refs/heads"
+  },
+  {
+   "group": 0,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/refs/tags"
+  },
+  {
+   "group": 0,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/refs/remotes"
+  },
+  {
+   "group": 0,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/refs/heads/master"
+  },
+  {
+   "group": 0,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/refs/remotes/origin"
+  },
+  {
+   "group": 0,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/refs/remotes/origin/HEAD"
+  },
+  {
+   "group": 0,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/refs/remotes/origin/master"
+  },
+  {
+   "group": 0,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/data/LGA_ABS_16"
+  },
+  {
+   "group": 0,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/data/POA_16"
+  },
+  {
+   "group": 4,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/data/.DS_Store"
+  },
+  {
+   "group": 9,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/data/LGA_ABS_16/LGA_2016_AUST.shx"
+  },
+  {
+   "group": 10,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/data/LGA_ABS_16/LGA_2016_NSW.xml"
+  },
+  {
+   "group": 10,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/data/LGA_ABS_16/LGA_2016_ACT.xml"
+  },
+  {
+   "group": 10,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/data/LGA_ABS_16/LGA_2016_TAS.xml"
+  },
+  {
+   "group": 11,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/data/LGA_ABS_16/LGA_2016_AUST.shp"
+  },
+  {
+   "group": 10,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/data/LGA_ABS_16/LGA_2016_QLD.xml"
+  },
+  {
+   "group": 10,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/data/LGA_ABS_16/LGA_2016_AUST.xml"
+  },
+  {
+   "group": 10,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/data/LGA_ABS_16/LGA_2016_OT.xml"
+  },
+  {
+   "group": 10,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/data/LGA_ABS_16/LGA_2016_NT.xml"
+  },
+  {
+   "group": 10,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/data/LGA_ABS_16/LGA_2016_WA.xml"
+  },
+  {
+   "group": 12,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/data/LGA_ABS_16/LGA_2016_AUST.dbf"
+  },
+  {
+   "group": 13,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/data/LGA_ABS_16/LGA_2016_AUST.prj"
+  },
+  {
+   "group": 10,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/data/LGA_ABS_16/LGA_2016_VIC.xml"
+  },
+  {
+   "group": 10,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/data/LGA_ABS_16/LGA_2016_SA.xml"
+  },
+  {
+   "group": 10,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/data/POA_16/POA_2016_AUST.xml"
+  },
+  {
+   "group": 12,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/data/POA_16/POA_2016_AUST.dbf"
+  },
+  {
+   "group": 9,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/data/POA_16/POA_2016_AUST.shx"
+  },
+  {
+   "group": 11,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/data/POA_16/POA_2016_AUST.shp"
+  },
+  {
+   "group": 13,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/data/POA_16/POA_2016_AUST.prj"
+  },
+  {
+   "group": 13,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/"
+  }
+ ]
+}
