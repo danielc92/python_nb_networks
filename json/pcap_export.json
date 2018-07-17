@@ -1004,807 +1004,1008 @@
  "nodes": [
   {
    "group": 0,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/drivers"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/drivers",
+   "size": 4.5
   },
   {
    "group": 1,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.ipynb_checkpoints"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.ipynb_checkpoints",
+   "size": 3.0
   },
   {
    "group": 2,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git",
+   "size": 5.0
   },
   {
    "group": 0,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/data"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/data",
+   "size": 5.0
   },
   {
    "group": 3,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/notebook_calculate_closest_street_pool.ipynb"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/notebook_calculate_closest_street_pool.ipynb",
+   "size": 3.0
   },
   {
    "group": 4,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.DS_Store"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.DS_Store",
+   "size": 3.0
   },
   {
    "group": 3,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/notebook_reverse_geocode.ipynb"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/notebook_reverse_geocode.ipynb",
+   "size": 3.0
   },
   {
    "group": 5,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/README.md"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/README.md",
+   "size": 3.0
   },
   {
    "group": 3,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/notebook_calculate_closest_street.ipynb"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/notebook_calculate_closest_street.ipynb",
+   "size": 3.0
   },
   {
    "group": 6,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/geckodriver.log"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/geckodriver.log",
+   "size": 3.0
   },
   {
    "group": 7,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.gitignore"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.gitignore",
+   "size": 3.0
   },
   {
    "group": 3,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/notebook_spatial_joins.ipynb"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/notebook_spatial_joins.ipynb",
+   "size": 3.0
   },
   {
    "group": 3,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/gnaf_tests.ipynb"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/gnaf_tests.ipynb",
+   "size": 3.0
   },
   {
    "group": 0,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/drivers/geckodriver"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/drivers/geckodriver",
+   "size": 3.0
   },
   {
    "group": 0,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/drivers/chromedriver"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/drivers/chromedriver",
+   "size": 3.0
   },
   {
    "group": 3,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.ipynb_checkpoints/notebook_reverse_geocode-checkpoint.ipynb"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.ipynb_checkpoints/notebook_reverse_geocode-checkpoint.ipynb",
+   "size": 3.0
   },
   {
    "group": 3,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.ipynb_checkpoints/notebook_spatial_joins-checkpoint.ipynb"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.ipynb_checkpoints/notebook_spatial_joins-checkpoint.ipynb",
+   "size": 3.0
   },
   {
    "group": 0,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects",
+   "size": 5.0
   },
   {
    "group": 0,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/info"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/info",
+   "size": 3.0
   },
   {
    "group": 0,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/logs"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/logs",
+   "size": 3.0
   },
   {
    "group": 0,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/hooks"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/hooks",
+   "size": 3.0
   },
   {
    "group": 0,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/refs"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/refs",
+   "size": 3.0
   },
   {
    "group": 0,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/config"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/config",
+   "size": 3.0
   },
   {
    "group": 0,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/HEAD"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/HEAD",
+   "size": 3.0
   },
   {
    "group": 0,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/description"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/description",
+   "size": 3.0
   },
   {
    "group": 0,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/index"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/index",
+   "size": 3.0
   },
   {
    "group": 0,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/packed-refs"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/packed-refs",
+   "size": 3.0
   },
   {
    "group": 0,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/COMMIT_EDITMSG"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/COMMIT_EDITMSG",
+   "size": 3.0
   },
   {
    "group": 0,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/3e"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/3e",
+   "size": 3.0
   },
   {
    "group": 0,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/50"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/50",
+   "size": 3.0
   },
   {
    "group": 0,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/6f"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/6f",
+   "size": 3.0
   },
   {
    "group": 0,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/9b"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/9b",
+   "size": 3.0
   },
   {
    "group": 0,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/32"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/32",
+   "size": 3.0
   },
   {
    "group": 0,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/51"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/51",
+   "size": 3.0
   },
   {
    "group": 0,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/94"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/94",
+   "size": 3.0
   },
   {
    "group": 0,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/02"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/02",
+   "size": 3.0
   },
   {
    "group": 0,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/a4"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/a4",
+   "size": 3.0
   },
   {
    "group": 0,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/b2"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/b2",
+   "size": 3.0
   },
   {
    "group": 0,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/be"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/be",
+   "size": 3.0
   },
   {
    "group": 0,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/b4"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/b4",
+   "size": 3.0
   },
   {
    "group": 0,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/a2"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/a2",
+   "size": 3.0
   },
   {
    "group": 0,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/e2"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/e2",
+   "size": 3.0
   },
   {
    "group": 0,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/ee"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/ee",
+   "size": 3.0
   },
   {
    "group": 0,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/f2"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/f2",
+   "size": 3.0
   },
   {
    "group": 0,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/f5"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/f5",
+   "size": 3.0
   },
   {
    "group": 0,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/e3"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/e3",
+   "size": 3.0
   },
   {
    "group": 0,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/e4"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/e4",
+   "size": 3.0
   },
   {
    "group": 0,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/fb"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/fb",
+   "size": 3.0
   },
   {
    "group": 0,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/c6"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/c6",
+   "size": 3.0
   },
   {
    "group": 0,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/4e"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/4e",
+   "size": 3.0
   },
   {
    "group": 0,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/pack"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/pack",
+   "size": 3.0
   },
   {
    "group": 0,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/73"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/73",
+   "size": 3.0
   },
   {
    "group": 0,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/74"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/74",
+   "size": 3.0
   },
   {
    "group": 0,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/1a"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/1a",
+   "size": 4.5
   },
   {
    "group": 0,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/7e"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/7e",
+   "size": 3.0
   },
   {
    "group": 0,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/4c"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/4c",
+   "size": 3.0
   },
   {
    "group": 0,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/81"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/81",
+   "size": 3.0
   },
   {
    "group": 0,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/9a"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/9a",
+   "size": 3.0
   },
   {
    "group": 0,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/36"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/36",
+   "size": 4.5
   },
   {
    "group": 0,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/09"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/09",
+   "size": 3.0
   },
   {
    "group": 0,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/5d"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/5d",
+   "size": 3.0
   },
   {
    "group": 0,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/info"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/info",
+   "size": 3.0
   },
   {
    "group": 0,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/65"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/65",
+   "size": 3.0
   },
   {
    "group": 0,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/3a"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/3a",
+   "size": 3.0
   },
   {
    "group": 0,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/39"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/39",
+   "size": 3.0
   },
   {
    "group": 0,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/55"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/55",
+   "size": 4.0
   },
   {
    "group": 0,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/bf"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/bf",
+   "size": 3.0
   },
   {
    "group": 0,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/b6"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/b6",
+   "size": 3.0
   },
   {
    "group": 0,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/db"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/db",
+   "size": 3.0
   },
   {
    "group": 0,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/ef"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/ef",
+   "size": 3.0
   },
   {
    "group": 0,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/c3"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/c3",
+   "size": 3.0
   },
   {
    "group": 0,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/ea"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/ea",
+   "size": 3.0
   },
   {
    "group": 0,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/c5"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/c5",
+   "size": 3.0
   },
   {
    "group": 0,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/c2"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/c2",
+   "size": 3.0
   },
   {
    "group": 0,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/f1"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/f1",
+   "size": 3.0
   },
   {
    "group": 0,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/46"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/46",
+   "size": 3.0
   },
   {
    "group": 0,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/2c"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/2c",
+   "size": 3.0
   },
   {
    "group": 0,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/1b"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/1b",
+   "size": 3.0
   },
   {
    "group": 0,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/77"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/77",
+   "size": 4.0
   },
   {
    "group": 0,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/4a"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/4a",
+   "size": 3.0
   },
   {
    "group": 0,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/15"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/15",
+   "size": 3.0
   },
   {
    "group": 0,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/12"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/12",
+   "size": 3.0
   },
   {
    "group": 0,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/85"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/85",
+   "size": 3.0
   },
   {
    "group": 0,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/76"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/76",
+   "size": 3.0
   },
   {
    "group": 0,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/40"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/40",
+   "size": 3.0
   },
   {
    "group": 0,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/47"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/47",
+   "size": 3.0
   },
   {
    "group": 0,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/3e/9473937de1fae919f4e33a38ab0f8f00386955"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/3e/9473937de1fae919f4e33a38ab0f8f00386955",
+   "size": 3.0
   },
   {
    "group": 0,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/50/6afe9750f99e6891bbc87b140c01245f6f21a5"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/50/6afe9750f99e6891bbc87b140c01245f6f21a5",
+   "size": 3.0
   },
   {
    "group": 0,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/50/672c33e030a8271ac82d214520414a7b17b3a0"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/50/672c33e030a8271ac82d214520414a7b17b3a0",
+   "size": 3.0
   },
   {
    "group": 0,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/6f/0e8931f3623c5040a34928bbfb3587c6cec861"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/6f/0e8931f3623c5040a34928bbfb3587c6cec861",
+   "size": 3.0
   },
   {
    "group": 0,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/9b/9e3128f551f7542a92e24a53d3420220445acb"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/9b/9e3128f551f7542a92e24a53d3420220445acb",
+   "size": 3.0
   },
   {
    "group": 0,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/32/e6b10d709089a9806d3a18aa8748f8573518e0"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/32/e6b10d709089a9806d3a18aa8748f8573518e0",
+   "size": 3.0
   },
   {
    "group": 0,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/32/bd9ab98a7ce5e698a6b655f2a2251ed8e5588e"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/32/bd9ab98a7ce5e698a6b655f2a2251ed8e5588e",
+   "size": 3.0
   },
   {
    "group": 0,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/51/78b30458e28230942de07b701a5c4c063a71c2"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/51/78b30458e28230942de07b701a5c4c063a71c2",
+   "size": 3.0
   },
   {
    "group": 0,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/51/6d9acb51ad1b62dcab53f7329f8ff9a6501cb6"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/51/6d9acb51ad1b62dcab53f7329f8ff9a6501cb6",
+   "size": 3.0
   },
   {
    "group": 0,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/94/0e2838c1b6296a74910d5cb33f7d882c99da06"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/94/0e2838c1b6296a74910d5cb33f7d882c99da06",
+   "size": 3.0
   },
   {
    "group": 0,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/02/526446ee18dcffdf24d2f5066604cb41666c89"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/02/526446ee18dcffdf24d2f5066604cb41666c89",
+   "size": 3.0
   },
   {
    "group": 0,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/a4/52c7864e643dc853abdcbaa2389815506c3149"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/a4/52c7864e643dc853abdcbaa2389815506c3149",
+   "size": 3.0
   },
   {
    "group": 0,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/a4/cebc0bf3e2a808e00d11cbd34068ee7bc1c3ee"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/a4/cebc0bf3e2a808e00d11cbd34068ee7bc1c3ee",
+   "size": 3.0
   },
   {
    "group": 0,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/b2/3ee0c7cac4d4db412a5fe642e36bea55f38441"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/b2/3ee0c7cac4d4db412a5fe642e36bea55f38441",
+   "size": 3.0
   },
   {
    "group": 0,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/be/5bad7e3cb2c40060678a210003b5f38982557c"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/be/5bad7e3cb2c40060678a210003b5f38982557c",
+   "size": 3.0
   },
   {
    "group": 0,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/b4/2703b5f595d79aeba6cdd881981eeee0a10808"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/b4/2703b5f595d79aeba6cdd881981eeee0a10808",
+   "size": 3.0
   },
   {
    "group": 0,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/a2/ac9ba68e908f8f10739707a9cb7ebbf82ff958"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/a2/ac9ba68e908f8f10739707a9cb7ebbf82ff958",
+   "size": 3.0
   },
   {
    "group": 0,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/e2/7444585371bfd8b68ff45a4631c4c136012507"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/e2/7444585371bfd8b68ff45a4631c4c136012507",
+   "size": 3.0
   },
   {
    "group": 0,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/ee/c20fa04a9fcabad8adc7716623e2e87e4be6b1"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/ee/c20fa04a9fcabad8adc7716623e2e87e4be6b1",
+   "size": 3.0
   },
   {
    "group": 0,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/f2/d2bf1834b7a394231daf62b90fe5f61889e50b"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/f2/d2bf1834b7a394231daf62b90fe5f61889e50b",
+   "size": 3.0
   },
   {
    "group": 0,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/f5/1838ed0a32b2e3cfac82341ab28f9b75f254d9"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/f5/1838ed0a32b2e3cfac82341ab28f9b75f254d9",
+   "size": 3.0
   },
   {
    "group": 0,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/e3/7a553be744fb7841d637331e1afd3f75d4267e"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/e3/7a553be744fb7841d637331e1afd3f75d4267e",
+   "size": 3.0
   },
   {
    "group": 0,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/e4/278cb2eff324178c72c2ce602ac0f8259be258"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/e4/278cb2eff324178c72c2ce602ac0f8259be258",
+   "size": 3.0
   },
   {
    "group": 0,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/e4/f5556e07872d44852fb064a6e95bafa8720033"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/e4/f5556e07872d44852fb064a6e95bafa8720033",
+   "size": 3.0
   },
   {
    "group": 0,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/fb/87e4c8648575a1eb2bdcd5f4cb4ae63d462446"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/fb/87e4c8648575a1eb2bdcd5f4cb4ae63d462446",
+   "size": 3.0
   },
   {
    "group": 0,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/c6/65fc0ce8eb891667fd070546fda864184bb149"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/c6/65fc0ce8eb891667fd070546fda864184bb149",
+   "size": 3.0
   },
   {
    "group": 0,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/4e/c6e2d82ae0c87e9191f82fff7c4f7ac98552f7"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/4e/c6e2d82ae0c87e9191f82fff7c4f7ac98552f7",
+   "size": 3.0
   },
   {
    "group": 0,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/73/efc5c9749b67051b282bee3d370883bb3c3447"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/73/efc5c9749b67051b282bee3d370883bb3c3447",
+   "size": 3.0
   },
   {
    "group": 0,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/74/cd069249330749b080b7dd1d82ad4c7387bfa9"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/74/cd069249330749b080b7dd1d82ad4c7387bfa9",
+   "size": 3.0
   },
   {
    "group": 0,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/1a/7bc41f351735101ca5f06fa388080496a136a8"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/1a/7bc41f351735101ca5f06fa388080496a136a8",
+   "size": 3.0
   },
   {
    "group": 0,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/7e/d1a6e21f6afbebc4ea3efcd84a3e5029383bf0"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/7e/d1a6e21f6afbebc4ea3efcd84a3e5029383bf0",
+   "size": 3.0
   },
   {
    "group": 0,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/4c/c16955648b54467fc697d87c127a31e43ba5b3"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/4c/c16955648b54467fc697d87c127a31e43ba5b3",
+   "size": 3.0
   },
   {
    "group": 0,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/81/5073a3f4cf6434e232624fce8d28883502dd59"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/81/5073a3f4cf6434e232624fce8d28883502dd59",
+   "size": 3.0
   },
   {
    "group": 0,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/9a/7fe34acb17b8a32cdacdd4e7eb8b73b627b27a"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/9a/7fe34acb17b8a32cdacdd4e7eb8b73b627b27a",
+   "size": 3.0
   },
   {
    "group": 0,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/36/b87e96502db8d4e230c635bdb6f61e5be821eb"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/36/b87e96502db8d4e230c635bdb6f61e5be821eb",
+   "size": 3.0
   },
   {
    "group": 0,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/09/9a6af50dcaef556ac456acd98a8e691fd73fbf"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/09/9a6af50dcaef556ac456acd98a8e691fd73fbf",
+   "size": 3.0
   },
   {
    "group": 0,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/5d/ee8de805bccbccb3549ae5b78e7695af540bc3"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/5d/ee8de805bccbccb3549ae5b78e7695af540bc3",
+   "size": 3.0
   },
   {
    "group": 0,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/65/4d9a848e7c144d998aaf9ffbdbf582fbf584d7"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/65/4d9a848e7c144d998aaf9ffbdbf582fbf584d7",
+   "size": 3.0
   },
   {
    "group": 0,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/65/b350517f1586140d806fd97d32e912c1b054cd"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/65/b350517f1586140d806fd97d32e912c1b054cd",
+   "size": 3.0
   },
   {
    "group": 0,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/3a/2e5c79c6859dcb25aa374b2abd7ec3e2015b6e"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/3a/2e5c79c6859dcb25aa374b2abd7ec3e2015b6e",
+   "size": 3.0
   },
   {
    "group": 0,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/39/7e0dd20d8962a1fd9d6e47aa6250b4d8dba006"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/39/7e0dd20d8962a1fd9d6e47aa6250b4d8dba006",
+   "size": 3.0
   },
   {
    "group": 0,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/55/794e5d625a6663b288b2e91cfc30126875e90e"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/55/794e5d625a6663b288b2e91cfc30126875e90e",
+   "size": 3.0
   },
   {
    "group": 0,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/bf/6c9cc31f31f8049f122d1f2113172bf9056e4a"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/bf/6c9cc31f31f8049f122d1f2113172bf9056e4a",
+   "size": 3.0
   },
   {
    "group": 0,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/b6/c4eea10c2edf408ddbfbaefee28a4fa3828400"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/b6/c4eea10c2edf408ddbfbaefee28a4fa3828400",
+   "size": 3.0
   },
   {
    "group": 0,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/b6/e98d4306dd78713683bf9ee8cccae7e2b7c84e"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/b6/e98d4306dd78713683bf9ee8cccae7e2b7c84e",
+   "size": 3.0
   },
   {
    "group": 0,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/db/32b15dab02ab286fc561f2f2ab26d8954ff7a5"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/db/32b15dab02ab286fc561f2f2ab26d8954ff7a5",
+   "size": 3.0
   },
   {
    "group": 0,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/ef/2fea53bdb26f426c7dc5cfd22dca81ef59f920"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/ef/2fea53bdb26f426c7dc5cfd22dca81ef59f920",
+   "size": 3.0
   },
   {
    "group": 0,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/c3/18020c18d5ffcab317dcac077f757b51193e43"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/c3/18020c18d5ffcab317dcac077f757b51193e43",
+   "size": 3.0
   },
   {
    "group": 0,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/ea/f1d0c11df691bf248c504057a079c244572bf7"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/ea/f1d0c11df691bf248c504057a079c244572bf7",
+   "size": 3.0
   },
   {
    "group": 0,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/c5/1a06f5f2977a8172ed7d6172ce98c9b07789aa"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/c5/1a06f5f2977a8172ed7d6172ce98c9b07789aa",
+   "size": 3.0
   },
   {
    "group": 0,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/c2/b8fb89b689e8980c6d25803d105450504afc33"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/c2/b8fb89b689e8980c6d25803d105450504afc33",
+   "size": 3.0
   },
   {
    "group": 0,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/f1/c9010662522f5b4f2510a46d0a999929ba691d"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/f1/c9010662522f5b4f2510a46d0a999929ba691d",
+   "size": 3.0
   },
   {
    "group": 0,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/46/17acafe20f08dc4f60f4557083fd88f79a5fe9"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/46/17acafe20f08dc4f60f4557083fd88f79a5fe9",
+   "size": 3.0
   },
   {
    "group": 0,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/2c/6cae46582a74c1287f19eeb31738c41433c629"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/2c/6cae46582a74c1287f19eeb31738c41433c629",
+   "size": 3.0
   },
   {
    "group": 0,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/1b/dd3f5b07656c0e480216d70fabd13d93a76aef"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/1b/dd3f5b07656c0e480216d70fabd13d93a76aef",
+   "size": 3.0
   },
   {
    "group": 0,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/77/3f1e10e7e4a5567011d352af9d8d434dbf5cd4"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/77/3f1e10e7e4a5567011d352af9d8d434dbf5cd4",
+   "size": 3.0
   },
   {
    "group": 0,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/77/3ce763d0516ce13f3058a4275a2cc6ed21bf2d"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/77/3ce763d0516ce13f3058a4275a2cc6ed21bf2d",
+   "size": 3.0
   },
   {
    "group": 0,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/4a/1119946c059ee8512f05e7a46cfae92257965a"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/4a/1119946c059ee8512f05e7a46cfae92257965a",
+   "size": 3.0
   },
   {
    "group": 0,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/4a/cc6d0f9087e7634e161c9cba4fc9615db07443"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/4a/cc6d0f9087e7634e161c9cba4fc9615db07443",
+   "size": 3.0
   },
   {
    "group": 0,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/15/0593812371418d1188f36bfd1a02b7b117d223"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/15/0593812371418d1188f36bfd1a02b7b117d223",
+   "size": 3.0
   },
   {
    "group": 0,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/12/e375c166e051b305fdc1a64762e12c1764ffda"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/12/e375c166e051b305fdc1a64762e12c1764ffda",
+   "size": 3.0
   },
   {
    "group": 0,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/12/1b1d684bfe6eee15c818027151afe5bffc9866"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/12/1b1d684bfe6eee15c818027151afe5bffc9866",
+   "size": 3.0
   },
   {
    "group": 0,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/85/a170c666c82b812f6645e03742da57ea202dad"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/85/a170c666c82b812f6645e03742da57ea202dad",
+   "size": 3.0
   },
   {
    "group": 0,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/76/5b710afa78fcca724d021e27f3d6e0419750f2"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/76/5b710afa78fcca724d021e27f3d6e0419750f2",
+   "size": 3.0
   },
   {
    "group": 0,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/40/674454aac10e9d243490add13eb84ba63bf7cf"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/40/674454aac10e9d243490add13eb84ba63bf7cf",
+   "size": 3.0
   },
   {
    "group": 0,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/47/a9a63ed9ad4f7eb503cb8baccba42b4c3ffab2"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/objects/47/a9a63ed9ad4f7eb503cb8baccba42b4c3ffab2",
+   "size": 3.0
   },
   {
    "group": 0,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/info/exclude"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/info/exclude",
+   "size": 3.0
   },
   {
    "group": 0,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/logs/refs"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/logs/refs",
+   "size": 3.0
   },
   {
    "group": 0,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/logs/HEAD"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/logs/HEAD",
+   "size": 3.0
   },
   {
    "group": 0,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/logs/refs/heads"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/logs/refs/heads",
+   "size": 3.0
   },
   {
    "group": 0,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/logs/refs/remotes"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/logs/refs/remotes",
+   "size": 3.0
   },
   {
    "group": 0,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/logs/refs/heads/master"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/logs/refs/heads/master",
+   "size": 3.0
   },
   {
    "group": 0,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/logs/refs/remotes/origin"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/logs/refs/remotes/origin",
+   "size": 3.0
   },
   {
    "group": 0,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/logs/refs/remotes/origin/HEAD"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/logs/refs/remotes/origin/HEAD",
+   "size": 3.0
   },
   {
    "group": 0,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/logs/refs/remotes/origin/master"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/logs/refs/remotes/origin/master",
+   "size": 3.0
   },
   {
    "group": 8,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/hooks/commit-msg.sample"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/hooks/commit-msg.sample",
+   "size": 3.0
   },
   {
    "group": 8,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/hooks/pre-rebase.sample"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/hooks/pre-rebase.sample",
+   "size": 3.0
   },
   {
    "group": 8,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/hooks/pre-commit.sample"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/hooks/pre-commit.sample",
+   "size": 3.0
   },
   {
    "group": 8,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/hooks/applypatch-msg.sample"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/hooks/applypatch-msg.sample",
+   "size": 3.0
   },
   {
    "group": 8,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/hooks/pre-receive.sample"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/hooks/pre-receive.sample",
+   "size": 3.0
   },
   {
    "group": 8,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/hooks/prepare-commit-msg.sample"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/hooks/prepare-commit-msg.sample",
+   "size": 3.0
   },
   {
    "group": 8,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/hooks/post-update.sample"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/hooks/post-update.sample",
+   "size": 3.0
   },
   {
    "group": 8,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/hooks/pre-applypatch.sample"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/hooks/pre-applypatch.sample",
+   "size": 3.0
   },
   {
    "group": 8,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/hooks/pre-push.sample"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/hooks/pre-push.sample",
+   "size": 3.0
   },
   {
    "group": 8,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/hooks/update.sample"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/hooks/update.sample",
+   "size": 3.0
   },
   {
    "group": 0,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/refs/heads"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/refs/heads",
+   "size": 3.0
   },
   {
    "group": 0,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/refs/tags"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/refs/tags",
+   "size": 3.0
   },
   {
    "group": 0,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/refs/remotes"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/refs/remotes",
+   "size": 3.0
   },
   {
    "group": 0,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/refs/heads/master"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/refs/heads/master",
+   "size": 3.0
   },
   {
    "group": 0,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/refs/remotes/origin"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/refs/remotes/origin",
+   "size": 3.0
   },
   {
    "group": 0,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/refs/remotes/origin/HEAD"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/refs/remotes/origin/HEAD",
+   "size": 3.0
   },
   {
    "group": 0,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/refs/remotes/origin/master"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/.git/refs/remotes/origin/master",
+   "size": 3.0
   },
   {
    "group": 0,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/data/LGA_ABS_16"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/data/LGA_ABS_16",
+   "size": 4.5
   },
   {
    "group": 0,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/data/POA_16"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/data/POA_16",
+   "size": 4.5
   },
   {
    "group": 4,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/data/.DS_Store"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/data/.DS_Store",
+   "size": 3.0
   },
   {
    "group": 9,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/data/LGA_ABS_16/LGA_2016_AUST.shx"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/data/LGA_ABS_16/LGA_2016_AUST.shx",
+   "size": 3.0
   },
   {
    "group": 10,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/data/LGA_ABS_16/LGA_2016_NSW.xml"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/data/LGA_ABS_16/LGA_2016_NSW.xml",
+   "size": 3.0
   },
   {
    "group": 10,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/data/LGA_ABS_16/LGA_2016_ACT.xml"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/data/LGA_ABS_16/LGA_2016_ACT.xml",
+   "size": 3.0
   },
   {
    "group": 10,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/data/LGA_ABS_16/LGA_2016_TAS.xml"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/data/LGA_ABS_16/LGA_2016_TAS.xml",
+   "size": 3.0
   },
   {
    "group": 11,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/data/LGA_ABS_16/LGA_2016_AUST.shp"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/data/LGA_ABS_16/LGA_2016_AUST.shp",
+   "size": 4.5
   },
   {
    "group": 10,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/data/LGA_ABS_16/LGA_2016_QLD.xml"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/data/LGA_ABS_16/LGA_2016_QLD.xml",
+   "size": 3.0
   },
   {
    "group": 10,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/data/LGA_ABS_16/LGA_2016_AUST.xml"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/data/LGA_ABS_16/LGA_2016_AUST.xml",
+   "size": 3.0
   },
   {
    "group": 10,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/data/LGA_ABS_16/LGA_2016_OT.xml"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/data/LGA_ABS_16/LGA_2016_OT.xml",
+   "size": 3.0
   },
   {
    "group": 10,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/data/LGA_ABS_16/LGA_2016_NT.xml"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/data/LGA_ABS_16/LGA_2016_NT.xml",
+   "size": 3.0
   },
   {
    "group": 10,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/data/LGA_ABS_16/LGA_2016_WA.xml"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/data/LGA_ABS_16/LGA_2016_WA.xml",
+   "size": 3.0
   },
   {
    "group": 12,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/data/LGA_ABS_16/LGA_2016_AUST.dbf"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/data/LGA_ABS_16/LGA_2016_AUST.dbf",
+   "size": 3.0
   },
   {
    "group": 13,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/data/LGA_ABS_16/LGA_2016_AUST.prj"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/data/LGA_ABS_16/LGA_2016_AUST.prj",
+   "size": 3.0
   },
   {
    "group": 10,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/data/LGA_ABS_16/LGA_2016_VIC.xml"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/data/LGA_ABS_16/LGA_2016_VIC.xml",
+   "size": 3.0
   },
   {
    "group": 10,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/data/LGA_ABS_16/LGA_2016_SA.xml"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/data/LGA_ABS_16/LGA_2016_SA.xml",
+   "size": 3.0
   },
   {
    "group": 10,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/data/POA_16/POA_2016_AUST.xml"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/data/POA_16/POA_2016_AUST.xml",
+   "size": 3.0
   },
   {
    "group": 12,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/data/POA_16/POA_2016_AUST.dbf"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/data/POA_16/POA_2016_AUST.dbf",
+   "size": 3.0
   },
   {
    "group": 9,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/data/POA_16/POA_2016_AUST.shx"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/data/POA_16/POA_2016_AUST.shx",
+   "size": 3.0
   },
   {
    "group": 11,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/data/POA_16/POA_2016_AUST.shp"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/data/POA_16/POA_2016_AUST.shp",
+   "size": 4.5
   },
   {
    "group": 13,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/data/POA_16/POA_2016_AUST.prj"
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/data/POA_16/POA_2016_AUST.prj",
+   "size": 3.0
   },
   {
-   "group": 13,
-   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/"
+   "group": 999999999999999999,
+   "name": "/Users/danielcorcoran/desktop/github_repos/python_nb_data_spatial/",
+   "size": 10
   }
  ]
 }
