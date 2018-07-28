@@ -169,8 +169,8 @@
             .attr("id", function(d, i) { return d.name; })
             .attr("cx", function(d, i) { return d.x; })
             .attr("cy", function(d, i) { return d.y; })
-            .attr("r",  function(d, i) { return 5; })
-            .style("fill",   function(d, i) { return color(d.group); })
+            .attr("r",  function(d, i) { return d.size; })
+            .style("fill",   function(d, i) { return d.colour; })
             .on("mouseover", function(d, i) { addTooltip(d3.select(this)); })
             .on("mouseout",  function(d, i) { d3.select("#tooltip").remove(); });
     }
@@ -203,7 +203,7 @@
 
 <body>
     <h2>Network Graph using D3.js</h2>
-    <p>Visualizing 'dvdrentals' sample postgres database</p>
+    <p>Visualizing 'dvdrentals' sample database. Nodes are coloured and sized by schema, table, column. This can be further improved by sizing nodes by disk space utilized within database.</p>
     <div align="center" id="force">
     </div>
     <script>
