@@ -508,299 +508,299 @@
  ],
  "nodes": [
   {
-   "colour": "#4ABBDB",
+   "colour": "#fdd49e",
    "name": "staff",
-   "size": "6"
+   "size": "6.0"
   },
   {
-   "colour": "#4ABBDB",
+   "colour": "#d7301f",
    "name": "public",
-   "size": "6"
+   "size": 13.0
   },
   {
-   "colour": "#4ABBDB",
+   "colour": "#fdd49e",
    "name": "category",
-   "size": "6"
+   "size": "6.0"
   },
   {
-   "colour": "#4ABBDB",
+   "colour": "#fdd49e",
    "name": "film_category",
-   "size": "6"
+   "size": "6.0"
   },
   {
-   "colour": "#4ABBDB",
+   "colour": "#fdd49e",
    "name": "country",
-   "size": "6"
+   "size": "6.0"
   },
   {
-   "colour": "#4ABBDB",
+   "colour": "#fdd49e",
    "name": "actor",
-   "size": "6"
+   "size": "6.0"
   },
   {
-   "colour": "#4ABBDB",
+   "colour": "#fdd49e",
    "name": "language",
-   "size": "6"
+   "size": "6.0"
   },
   {
-   "colour": "#4ABBDB",
+   "colour": "#fdd49e",
    "name": "inventory",
-   "size": "6"
+   "size": "6.0"
   },
   {
-   "colour": "#4ABBDB",
+   "colour": "#ef6548",
    "name": "payment",
-   "size": "6"
+   "size": "9.0"
   },
   {
-   "colour": "#4ABBDB",
+   "colour": "#d7301f",
    "name": "rental",
-   "size": "6"
+   "size": "10.0"
   },
   {
-   "colour": "#4ABBDB",
+   "colour": "#fdd49e",
    "name": "city",
-   "size": "6"
+   "size": "6.0"
   },
   {
-   "colour": "#4ABBDB",
+   "colour": "#fdd49e",
    "name": "store",
-   "size": "6"
+   "size": "6.0"
   },
   {
-   "colour": "#4ABBDB",
+   "colour": "#ef6548",
    "name": "film",
-   "size": "6"
+   "size": "9.0"
   },
   {
-   "colour": "#4ABBDB",
+   "colour": "#fdd49e",
    "name": "address",
-   "size": "6"
+   "size": "6.0"
   },
   {
-   "colour": "#4ABBDB",
+   "colour": "#fdd49e",
    "name": "film_actor",
-   "size": "6"
+   "size": "6.0"
   },
   {
-   "colour": "#4ABBDB",
+   "colour": "#fdd49e",
    "name": "customer",
-   "size": "6"
+   "size": "6.0"
   },
   {
-   "colour": "#FFAA00",
+   "colour": "#fdd49e",
    "name": "staff_id",
-   "size": "4"
+   "size": "6.0"
   },
   {
-   "colour": "#FFAA00",
+   "colour": "#fdd49e",
    "name": "first_name",
-   "size": "4"
+   "size": "6.0"
   },
   {
-   "colour": "#FFAA00",
+   "colour": "#fdd49e",
    "name": "last_name",
-   "size": "4"
+   "size": "6.0"
   },
   {
-   "colour": "#FFAA00",
+   "colour": "#fdd49e",
    "name": "address_id",
-   "size": "4"
+   "size": "6.0"
   },
   {
-   "colour": "#FFAA00",
+   "colour": "#fdd49e",
    "name": "email",
-   "size": "4"
+   "size": "6.0"
   },
   {
-   "colour": "#FFAA00",
+   "colour": "#fdd49e",
    "name": "store_id",
-   "size": "4"
+   "size": "6.0"
   },
   {
-   "colour": "#FFAA00",
+   "colour": "#fdd49e",
    "name": "active",
-   "size": "4"
+   "size": "6.0"
   },
   {
-   "colour": "#FFAA00",
+   "colour": "#fdd49e",
    "name": "username",
-   "size": "4"
+   "size": "6.0"
   },
   {
-   "colour": "#FFAA00",
+   "colour": "#fdd49e",
    "name": "password",
-   "size": "4"
+   "size": "6.0"
   },
   {
-   "colour": "#FFAA00",
+   "colour": "#fdd49e",
    "name": "last_update",
-   "size": "4"
+   "size": "6.0"
   },
   {
-   "colour": "#FFAA00",
+   "colour": "#fdd49e",
    "name": "picture",
-   "size": "4"
+   "size": "6.0"
   },
   {
-   "colour": "#FFAA00",
+   "colour": "#fdd49e",
    "name": "category_id",
-   "size": "4"
+   "size": "6.0"
   },
   {
-   "colour": "#FFAA00",
+   "colour": "#fdd49e",
    "name": "name",
-   "size": "4"
+   "size": "6.0"
   },
   {
-   "colour": "#FFAA00",
+   "colour": "#fdd49e",
    "name": "film_id",
-   "size": "4"
+   "size": "6.0"
   },
   {
-   "colour": "#FFAA00",
+   "colour": "#fdd49e",
    "name": "country_id",
-   "size": "4"
+   "size": "6.0"
   },
   {
-   "colour": "#FFAA00",
+   "colour": "#fdd49e",
    "name": "actor_id",
-   "size": "4"
+   "size": "6.0"
   },
   {
-   "colour": "#FFAA00",
+   "colour": "#fdd49e",
    "name": "language_id",
-   "size": "4"
+   "size": "6.0"
   },
   {
-   "colour": "#FFAA00",
+   "colour": "#fdd49e",
    "name": "inventory_id",
-   "size": "4"
+   "size": "6.0"
   },
   {
-   "colour": "#FFAA00",
+   "colour": "#fdd49e",
    "name": "payment_id",
-   "size": "4"
+   "size": "6.0"
   },
   {
-   "colour": "#FFAA00",
+   "colour": "#fdd49e",
    "name": "customer_id",
-   "size": "4"
+   "size": "6.0"
   },
   {
-   "colour": "#FFAA00",
+   "colour": "#fdd49e",
    "name": "rental_id",
-   "size": "4"
+   "size": "6.0"
   },
   {
-   "colour": "#FFAA00",
+   "colour": "#fdbb84",
    "name": "amount",
-   "size": "4"
+   "size": "7.0"
   },
   {
-   "colour": "#FFAA00",
+   "colour": "#fdbb84",
    "name": "payment_date",
-   "size": "4"
+   "size": "7.0"
   },
   {
-   "colour": "#FFAA00",
+   "colour": "#fdbb84",
    "name": "rental_date",
-   "size": "4"
+   "size": "7.0"
   },
   {
-   "colour": "#FFAA00",
+   "colour": "#fdbb84",
    "name": "return_date",
-   "size": "4"
+   "size": "7.0"
   },
   {
-   "colour": "#FFAA00",
+   "colour": "#fdd49e",
    "name": "city_id",
-   "size": "4"
+   "size": "6.0"
   },
   {
-   "colour": "#FFAA00",
+   "colour": "#fdd49e",
    "name": "manager_staff_id",
-   "size": "4"
+   "size": "6.0"
   },
   {
-   "colour": "#FFAA00",
+   "colour": "#fdd49e",
    "name": "title",
-   "size": "4"
+   "size": "6.0"
   },
   {
-   "colour": "#FFAA00",
+   "colour": "#fdbb84",
    "name": "description",
-   "size": "4"
+   "size": "7.0"
   },
   {
-   "colour": "#FFAA00",
+   "colour": "#fdd49e",
    "name": "release_year",
-   "size": "4"
+   "size": "6.0"
   },
   {
-   "colour": "#FFAA00",
+   "colour": "#fdd49e",
    "name": "rental_duration",
-   "size": "4"
+   "size": "6.0"
   },
   {
-   "colour": "#FFAA00",
+   "colour": "#fdd49e",
    "name": "rental_rate",
-   "size": "4"
+   "size": "6.0"
   },
   {
-   "colour": "#FFAA00",
+   "colour": "#fdd49e",
    "name": "length",
-   "size": "4"
+   "size": "6.0"
   },
   {
-   "colour": "#FFAA00",
+   "colour": "#fdd49e",
    "name": "replacement_cost",
-   "size": "4"
+   "size": "6.0"
   },
   {
-   "colour": "#FFAA00",
+   "colour": "#fdd49e",
    "name": "rating",
-   "size": "4"
+   "size": "6.0"
   },
   {
-   "colour": "#FFAA00",
+   "colour": "#fdd49e",
    "name": "special_features",
-   "size": "4"
+   "size": "6.0"
   },
   {
-   "colour": "#FFAA00",
+   "colour": "#fc8d59",
    "name": "fulltext",
-   "size": "4"
+   "size": "8.0"
   },
   {
-   "colour": "#FFAA00",
+   "colour": "#fdd49e",
    "name": "address2",
-   "size": "4"
+   "size": "6.0"
   },
   {
-   "colour": "#FFAA00",
+   "colour": "#fdd49e",
    "name": "district",
-   "size": "4"
+   "size": "6.0"
   },
   {
-   "colour": "#FFAA00",
+   "colour": "#fdd49e",
    "name": "postal_code",
-   "size": "4"
+   "size": "6.0"
   },
   {
-   "colour": "#FFAA00",
+   "colour": "#fdd49e",
    "name": "phone",
-   "size": "4"
+   "size": "6.0"
   },
   {
-   "colour": "#FFAA00",
+   "colour": "#fdd49e",
    "name": "activebool",
-   "size": "4"
+   "size": "6.0"
   },
   {
-   "colour": "#FFAA00",
+   "colour": "#fdd49e",
    "name": "create_date",
-   "size": "4"
+   "size": "6.0"
   }
  ]
 }
